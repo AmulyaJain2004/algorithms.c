@@ -11,6 +11,6 @@ void insert_at_beginning (Node** head, void* data);
 void insert_at_end (Node** head, void* data);
 void delete_node (Node** head, void* data, int (*compare)(void*, void*));
 Node *search(Node* head, void* data, int (*compare)(void*, void*));
-void print_list(Node* head, void (*print_data)(void*))
+void print_list(Node* head, void (*print_data)(void*));
 
 #endif
