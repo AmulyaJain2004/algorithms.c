@@ -1,8 +1,4 @@
 # dsa.c
-Here’s a comprehensive `README.md` template for your **Data Structures Library** in C:
-
----
-
 # Data Structures Library in C
 
 ### Overview
