@@ -16,7 +16,7 @@ This library currently supports the following data structures:
 **AVL Tree**: Self-balancing binary search tree. \
 **Graph**: Implemented with an adjacency list, including BFS and DFS traversals. \
 **Hash Table**: Collision resolution using chaining. \
-**Priority Queue and Heaps**: Provides an efficient min-heap or max-heap implementation. 
+**Priority Queue and Heaps**: Provides an efficient min-heap or max-heap implementation.
 
 ### Folder Structure
 
