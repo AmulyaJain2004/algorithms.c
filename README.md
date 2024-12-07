@@ -9,14 +9,14 @@ Welcome to the **Data Structures Library** in C! This open-source library provid
 ### Features
 
 This library currently supports the following data structures:
-- **Linked List**: Generic implementation with basic operations.
-- **Stack**: Built using a linked list for efficient LIFO operations.
-- **Queue**: Built using a linked list for efficient FIFO operations.
-- **Binary Search Tree (BST)**: Supports basic tree operations.
-- **AVL Tree**: Self-balancing binary search tree.
-- **Graph**: Implemented with an adjacency list, including BFS and DFS traversals.
-- **Hash Table**: Collision resolution using chaining.
-- **Priority Queue and Heaps**: Provides an efficient min-heap or max-heap implementation.
+**Linked List**: Generic implementation with basic operations. \
+**Stack**: Built using a linked list for efficient LIFO operations. \
+**Queue**: Built using a linked list for efficient FIFO operations. \
+**Binary Search Tree (BST)**: Supports basic tree operations. \
+**AVL Tree**: Self-balancing binary search tree. \
+**Graph**: Implemented with an adjacency list, including BFS and DFS traversals. \
+**Hash Table**: Collision resolution using chaining. \
+**Priority Queue and Heaps**: Provides an efficient min-heap or max-heap implementation. 
 
 ### Folder Structure
 
@@ -80,11 +80,9 @@ Each data structure is defined in its own header and source files, with function
 
 The linked list is implemented as a generic structure, allowing it to store any data type using `void*` pointers.
 
-
 ### 2. Stack
 
 The stack is implemented as a linked list, allowing it to grow dynamically.
-
 
 ### 3. Queue
 
