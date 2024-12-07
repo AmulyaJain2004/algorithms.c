@@ -1,6 +1,6 @@
-# dsa.c
+# algorithms.c
 
-## Data Structures Library in C
+## Algorithms Library in C
 
 ### Overview
 
