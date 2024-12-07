@@ -1,7 +1,9 @@
 # dsa.c
-# Data Structures Library in C
+
+## Data Structures Library in C
 
 ### Overview
+
 Welcome to the **Data Structures Library** in C! This open-source library provides implementations of various commonly used data structures. Designed with flexibility and reusability in mind, it offers generic structures that handle various data types, enabling developers to incorporate efficient data structures into their C projects with ease.
 
 ### Features
