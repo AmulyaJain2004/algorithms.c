@@ -2,15 +2,17 @@
 #define LIST_H
 
 typedef struct Node {
-    void* data;
+    int data;
     struct Node* next;
 } Node;
 
-Node* create_node (void* data);
-void insert_at_beginning (Node** head, void* data);
-void insert_at_end (Node** head, void* data);
-void delete_node (Node** head, void* data, int (*compare)(void*, void*));
-Node *search(Node* head, void* data, int (*compare)(void*, void*));
-void print_list(Node* head, void (*print_data)(void*));
+typedef struct LinkedList {
+    Node* head;
+} LinkedList;
+
+LinkedList* create_list();
+void append(LinkedList* list, int data);
+void display_list(LinkedList* list);
+void free_list(LinkedList* list);
 
 #endif
