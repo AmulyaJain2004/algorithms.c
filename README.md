@@ -54,8 +54,8 @@ To start using this library, clone the repository and compile the code using the
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/data-structures-library.git
-cd data-structures-library
+git clone https://github.com/yourusername/algorithms.c.git
+cd algorithms.c
 ```
 
 #### Building the Library
